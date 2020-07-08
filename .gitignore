@@ -1,0 +1,7 @@
+/.idea
+/test-config.json
+/connector-goto-meeting.iml
+/target
+.DS_Store
+/out
+/custom
